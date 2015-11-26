@@ -10,6 +10,8 @@
 # define END 0
 # define TRUE 1
 # define FALSE 0
+# define WIN_W 1280
+# define WIN_H 720
 
 void		display_menu(SDL_Surface *screen);
 void		display_pause(SDL_Surface *screen);
